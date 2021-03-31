@@ -11,7 +11,7 @@ body{
 }
 
 .bgimg{
-background-image: url(/img/landscape-2144650_1920.jpg);
+background-image: url(/img/ground.jpg);
 background-size: 100% 100%;
 background-attachment: fixed;
 width: 100%;
@@ -63,7 +63,7 @@ width:150px;
 
 }
 .bgimg2{
-background-image: url(/img/nature-2795521_1920.jpg);
+background-image: url(/img/garden.jpg);
 background-size: 100% 100%;
 background-attachment: fixed;
 width: 100%;
@@ -138,7 +138,7 @@ width: 100%;
 height: 100%;
 z-index: -1;
 opacity:0.8;
-background:url("/img/sunset-3013638_1920.jpg")no-repeat center center/cover;
+background:url("/img/footer.jpg")no-repeat center center/cover;
 background-attachment: fixed;
 
 }
@@ -265,7 +265,7 @@ body{
 
 
 .bgimg3{
-background-image: url(/img/team-2954004_1920.jpg);
+background-image: url(/img/team.jpg);
 background-size: 100% 100%;
 /* background-attachment: fixed; */
 width: 100%;
@@ -319,7 +319,7 @@ width: 100%;
 height: 100%;
 z-index: -1;
 opacity:0.8;
-background:url("/img/sunset-3013638_1920.jpg")no-repeat center center/cover;
+background:url("/img/footer.jpg")no-repeat center center/cover;
 background-attachment: fixed;
 
 }
