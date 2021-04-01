@@ -107,3 +107,77 @@ body{
     .navbar-nav .current{
         text-decoration:underline;
     }
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    @media(max-width:800px){
+        
+        .para_2{
+            margin:40px;
+        }
+        .para_2_h1{
+            font-weight: 100;
+            text-decoration: underline;
+            font-size:xx-large;
+        }
+        .para_2_ul{
+            margin-left: 45px;
+            margin-top: 40px;
+            font-weight: 400;
+            font-size:15px;
+        }
+        .wrapper h5{
+            font-size:large;
+        }
+        .newsletter input{
+            font-size:small;
+        }
+        .btn{
+            font-size:small;
+        }
+        .privacy-policy{
+            font-size: 15px;
+        }
+    }
+        
+
+
+            @media(max-width:600px){
+                
+                .para_2{
+                    margin:30px;
+                }
+                .para_2_h1{
+                    font-weight: 100;
+                    text-decoration: underline;
+                    font-size:large;
+                }
+                .para_2_ul{
+                    margin-left: 35px;
+                    margin-top: 20px;
+                    font-weight: 400;
+                    font-size:10px;
+                }
+                .wrapper h5{
+                    font-size:medium;
+                }
+                .newsletter input{
+                    font-size: small;
+                }
+                .btn{
+                    font-size: small;
+                }
+                .privacy-policy{
+                    font-size: 12px;
+                }
+            }
