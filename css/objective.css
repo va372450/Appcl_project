@@ -6,9 +6,7 @@ body{
     margin:0px;
     padding:0px;
 }
-.logo{
-    font-size: 40px;
-}
+
 .bgimg6{
     background-image: url(https://cdn.pixabay.com/photo/2016/03/06/17/41/business-idea-1240825__340.jpg);
     background-size: 100% 100%;
@@ -23,7 +21,7 @@ body{
     }
     .para_3_h1{
         font-weight: 100;
-        text-decoration: underline;
+        /* text-decoration: underline; */
     }
     .para_3_ul{
         margin-left: 95px;
@@ -123,7 +121,7 @@ body{
         }
         .para_3_h1{
             font-weight: 100;
-            text-decoration: underline;
+            /* text-decoration: underline; */
             font-size: xx-large;
         }
         .para_3_ul{
@@ -155,14 +153,14 @@ body{
         }
         .para_3_h1{
             font-weight: 100;
-            text-decoration: underline;
-            font-size: large;
+            /* text-decoration: underline; */
+            font-size: x-large;
         }
         .para_3_ul{
             margin-left: 35px;
             margin-top: 30px;
             font-weight: 400;
-            font-size:10px;
+            font-size:12px;
         }
         .wrapper h5{
             font-size:medium;
@@ -176,4 +174,9 @@ body{
         .privacy-policy{
             font-size: 12px;
         }
+        .bgimg6{
+            height: 300px;
+        }
     }
+
+   
