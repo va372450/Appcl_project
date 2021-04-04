@@ -22,8 +22,7 @@ body{
 .box1{
     text-align: center;
     margin:60px 80px;
-    /* width:250px;
-    height:250px; */
+   
     }
     .box1 img{
         display: block;
@@ -32,10 +31,7 @@ body{
         margin:auto;
         box-shadow:5px 10px 8px 10px black;
     }
-    /* .box1 img:hover{
-        width:280px;
-        height:280px;
-    } */
+    
 
     .wrapper{
         width:100%;
@@ -156,8 +152,5 @@ body{
         .bgimg8 img{
             height:300px;
         }
-        /* .box1 img{
-            height:220px;
-            width:220px;
-        } */
+        
     }

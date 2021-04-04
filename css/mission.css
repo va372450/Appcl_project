@@ -10,7 +10,6 @@ body{
 .bgimg4{
     background-image: url(https://cdn.pixabay.com/photo/2016/03/06/17/41/business-idea-1240825__340.jpg);
     background-size: 100% 100%;
-    /* background-attachment: fixed; */
     width: 100%;
     height:400px;
     }
@@ -21,7 +20,6 @@ body{
     }
     .para_2_h1{
         font-weight: 100;
-        /* text-decoration: underline; */
     }
     .para_2_ul{
         margin-left: 95px;
@@ -125,7 +123,6 @@ body{
         }
         .para_2_h1{
             font-weight: 100;
-            /* text-decoration: underline; */
             font-size:xx-large;
         }
         .para_2_ul{
@@ -157,7 +154,6 @@ body{
                 }
                 .para_2_h1{
                     font-weight: 100;
-                    /* text-decoration: underline; */
                     font-size:x-large;
                 }
                 .para_2_ul{
